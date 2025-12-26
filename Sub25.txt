@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.9
 
 vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
 
@@ -503,3 +502,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encry
 vless://a028620e-f800-4416-b30a-3f46a2dd1bd5@filimo.video-fun-new.com.de:80?encryption=none&type=httpupgrade&host=filimo.video-fun-new.com.de&path=/h1WmK1goGcFuw7V0&security=none#B
 vmess://eyJwcyI6IkMiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJhZGQiOiJmaWxpbW8udmlkZW8tZnVuLW5ldy5jb20uZGUiLCJpZCI6ImEwMjg2MjBlLWY4MDAtNDQxNi1iMzBhLTNmNDZhMmRkMWJkNSIsImhvc3QiOiJmaWxpbW8udmlkZW8tZnVuLW5ldy5jb20uZGUiLCJwYXRoIjoiXC9wTHJSN1pzMTNhUEhWN2NGdXc3VjAiLCJwb3J0IjoiODAifQ==
 vless://a028620e-f800-4416-b30a-3f46a2dd1bd5@rez1.generator-filmmaker.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=refersion.com&security=reality&fp=firefox&sni=refersion.com&pbk=L0T9ktp1wL9UBQJZATIoia23FvNFQtkKNOBinisAwA8&sid=e05e#E
+vless://460e4a75-1b9c-47b5-bfc3-52191530bffd@185.170.154.39:443?security=reality&encryption=none&pbk=hpvDv1CqHc_smuVyFqZdjPJxAbkkx92PVbnHYaZbXT4&headerType=none&fp=firefox&spx=%2Fsinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=germany67.clearorbitllc.com&sid=1a53728e66#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%A9%F0%9F%87%AA`
