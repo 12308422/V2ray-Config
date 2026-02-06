@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2d25da30-8982-49dc-bfed-f121be6f7762@SpEeDtEsT.NeT:80/?mode=auto&path=/HajAmirVip?=2048&security=none&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#@v2rays_ha 7096
 vless://2d25da30-8982-49dc-bfed-f121be6f7762@SpEeDtEsT.NeT:80?mode=auto&path=/HajAmirVip?=2048&security=none&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#@meliproxyy
 vless://2d25da30-8982-49dc-bfed-f121be6f7762@SpEeDtEsT.NeT:80?mode=auto&path=/HajAmirVip?=2048&security=none&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#ConfigV2RayNG
 vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.239:443?path=/&security=none&encryption=none&type=ws#𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺:@meowvip1
@@ -502,4 +503,3 @@ vless://516e8594-487f-4aff-9e16-cad964907880@81.12.33.3:713?encryption=none&type
 vless://516e8594-487f-4aff-9e16-cad964907880@81.12.33.4:713?encryption=none&type=tcp&headerType=http&path=/&host=gharar.ir#⚡︎ 🇩🇪 𓏺 🇮🇷 مصرف نیم‌بها 1/2
 vless://516e8594-487f-4aff-9e16-cad964907880@81.12.33.5:713?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#⚡︎ 🇩🇪 𓏺 🇮🇷 مصرف نیم‌بها 1/2
 vless://516e8594-487f-4aff-9e16-cad964907880@81.12.33.6:713?encryption=none&type=tcp&headerType=http&path=/&host=gharar.ir#⚡︎ 🇩🇪 𓏺 🇮🇷 مصرف نیم‌بها 1/2
-vless://516e8594-487f-4aff-9e16-cad964907880@81.12.33.7:713?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#⚡︎ 🇩🇪 𓏺 🇮🇷 مصرف نیم‌بها 1/2
