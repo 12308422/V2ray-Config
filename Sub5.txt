@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayngSeven
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Telegram @Ettehad_vpn
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#https://t.me/allproconf
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#⚜️Join Sho: @IRAN_V2RAY1⚜️
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#All-@V2rayAlpha--16
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🔸Join SHo @IRAN_V2RAY1⚜️
@@ -499,7 +503,3 @@ vless://0d328214-7ebc-413a-9820-2260b38d2242@152.53.116.71:443/?type=tcp&encrypt
 vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527/?security=&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#@v2rays_ha 11070
 vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none&headerType=http&path=/&host=cafebazaar.snapp.ir#🇩🇪[Telegram:NetifyVpn]
 vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#@V2rayBaaz
-vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=none&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#@Hddify 🩸
-vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=none&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#@coldxmeme
-vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=none&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#Join : @MTMVPN 12
-vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527?security=none&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
