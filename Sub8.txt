@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://92c77136-449c-431e-b46e-6216bee8c013@172.67.186.43:8443?path=/eyJqdW5rIjoicENjdnlpb1UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=bitter-math-c9f3.jaras19295.workers.dev&fp=chrome&type=ws&sni=bitTER-MAtH-C9F3.JARaS19295.wORkers.Dev#3️⃣ All Operators @MaSTeRSeRVeR1
+vless://92ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#@EuServer
 vless://931a52bd-8a65-4df7-a50a-c758f19d010c@144.31.203.32:5443?encryption=none&fp=chrome&pbk=lA2s-Trf3ZL92OgmBL9ML0odq6W4ruDaOKqMzeXTPRY&security=reality&sid=bc49bac5926c3284&sni=google.com&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=/&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
@@ -501,5 +503,3 @@ vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.106:35812?Telegram=@Goza
 vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.106:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#[🇮🇷]t.me/ConfigsHub
 vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@GuessWhaat
 vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@harfbzaniiim
-vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@icv2ray
-vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#@rezzonez
