@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🛡 V 45 @Outline_Vpn
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@WedBaZtel
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#@AkbarConfig👈کانفیگ روزانه در
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram = @SOSkeyNET
@@ -499,7 +503,3 @@ vless://1b15a1c7-bc92-4ab7-9393-f4687f4ba8d4@195.177.255.49:57467?security=none&
 vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?type=xhttp&encryption=none&path=/@bitnetvpn&host=bitnetvpn.com&mode=auto&security=none#🇹🇷_BITNETvpn_GIFT-250G-2
 vless://1bb38106-17fd-46e2-8559-a0cdf52b5243@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://1bb38106-17fd-46e2-8559-a0cdf52b5243@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#@V2RAYROZ
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#🇰🇿@FreakConfig
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#🇺🇸@FreakConfig
-vless://1cf85abc-13cd-4b59-905d-3f0ebc2f28d1@op-g1-detun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#💎@ConfigV2RayNG
