@@ -108,9 +108,6 @@ trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mm
 trojan://BxceQaOe@18.166.228.88:1951?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@52.195.233.17:4937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A538
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@13.230.200.237:3057/?type=tcp&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 8638
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 9490
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@18.183.73.66:921/?type=tcp&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 3770
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#@v2rayconfigamir 4595
 trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#@v2rayconfigamir 2463
 trojan://OVsFRZT5jG@172.67.191.189:443?path=/&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#@v2rayconfigamir 2526
