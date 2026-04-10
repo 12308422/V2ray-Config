@@ -379,8 +379,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMTM3bTVhLmN5YmVydmVuYS5jb206NTAwOTk=#@v2rayconfigamir 9413
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk=#@v2rayconfigamir 4924
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 9105
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxNTQuNzAuMjA3Ljk3Ojk5MA==#@v2rayconfigamir 5434
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxODguMjE0LjE1Ny4zMDo5OTA=#@v2rayconfigamir 8119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:811#@V2rayAlpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOelF4Wg==#@v2rayconfigamir 1253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 4173
@@ -392,7 +390,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTEA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdG4wODNicXZzLXlDdnFwZGRteDBtVVBxVXBfN0xaaA==@5.160.47.215:443#@WibeOfMe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿 - KZ - @FreeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#⚡Telegram = @prrofile_purple
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#
@@ -427,6 +424,7 @@ trojan://7964@162.159.33.81:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfa
 trojan://8r<[9'l6hAO#8ZQi@172.64.147.106:2096?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🧬50@oneclickvpnkeys
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://TOwMPNqmZvUobRbEAZxFiN1q@185.189.58.195:37976?type=tcp&security=tls&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#@Guesswhaat | DE | TROJAN40@wibeofme
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#
@@ -460,11 +458,11 @@ trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.157.121.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.193.18.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.121.164.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.76.25.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.157.169.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.184.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.45.34.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.115.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.102.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -494,7 +492,6 @@ vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=n
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?security=&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://0945f741-d2cd-4e37-e235-021558deb307@farzandeiran.iransalar.top:41316?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🔵@chillguy_vpn
 vless://09d12e6b-c25b-4c78-bc5d-99941c52177e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#⚡Telegram = @prrofile_purple
-vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?path=/&security=none&encryption=none&host=rubika.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://0b277abf-e0d6-44d8-85c6-f6c7afc0aec5@176.97.73.155:443?encryption=none&security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none#
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://0c65de9b-e736-4487-bb4b-5ff5ab58812f@chatgpt.com:2087?path=/eyJqdW5rIjoiMVlqdVJib05XdDBVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=small-breeze-e257.moket12807.workers.dev&fp=chrome&type=ws&sni=SMALL-bREEZe-e257.MOkEt12807.WOrkeRs.Dev#3 🇩🇪 @V2ngFast
@@ -502,4 +499,7 @@ vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encr
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#🔐@LOCKEY_VPN
 vless://0d96abbd-df86-495b-bc1b-8174cb913f95@185.143.234.235:80?path=/&security=none&encryption=none&host=dl.bale.lovlytehran.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://0e3aad48-b46c-4899-9026-5913f222a3d0@myrt7rt8e5w5gfdfEerh8.maral-pc.site:442?security=none&encryption=none&host=91.245.229.1&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://0e3aad48-b46c-4899-9026-5913f222a3d0@myrt7rt8e5w5gfdfEerh8.maral-pc.site:442?type=tcp&path=/&host=91.245.229.1&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
+vless://0f92dac7-5b3e-4978-b1fb-adc131ab2d9e@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&host=verso.legion-bot.site&type=ws&sni=verso.legion-bot.site#@WibeOfMe
+vless://0f92dac7-5b3e-4978-b1fb-adc131ab2d9e@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=verso.legion-bot.site&type=ws&allowInsecure=1&sni=verso.legion-bot.site#@Gangstersdonotcry
+vless://10aaf176-be61-4353-a4e7-9cca04baa049@link2x07831.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@V2rayTun0
+vless://125bcb79-37c3-43c2-91f5-70fe36d75a97@ag.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🔵@chillguy_vpn

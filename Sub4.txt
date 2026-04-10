@@ -3,24 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f3a1017d-1ebf-11f1-8cae-c3845d39d2de@81.19.141.91:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&type=tcp&headerType=none#
-vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=/&security=&encryption=none&host=vip.az99x.info&type=ws#@aloconfig_com
-vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=/&security=&encryption=none&host=vip.az99x.info&type=ws#https://t.me/ConfigX2ray
-vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=/&security=none&encryption=none&host=vip.az99x.info&type=ws#@TeleProxyTele
-vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=/&security=none&encryption=none&host=vip.az99x.info&type=ws#@aloconfig_com
-vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=/&security=none&encryption=none&host=vip.az99x.info&type=ws#https://t.me/ConfigX2ray
-vless://f6858973-ceb0-4387-9252-ed1061fee5cf@188.213.197.228:34002?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#All-@V2rayAlpha--3
-vless://f79250a7-13ab-4f1f-cbb5-4f45949a94f8@www.speedtest.net:8080?path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN?ed=2048&security=&encryption=none&host=1.amin-3.ir&type=httpupgrade#@LOCKEY_VPN
-vless://f79250a7-13ab-4f1f-cbb5-4f45949a94f8@www.speedtest.net:8080?path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-3.ir&type=httpupgrade#@LOCKEY_VPN
-vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-@V2rayAlpha--7
-vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--8
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--9
 vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?encryption=none&type=tcp&headerType=none&security=none#@cllubvpn لطفا برای حمایت جوین شید
-vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#⚡Telegram = @prrofile_purple
 vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://fc57e597-4b0e-4b01-911c-0895d75341d7@abr.superip.ir:2086?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#@aloconfig_com
+vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=/&security=tls&encryption=none&insecure=0&host=ai.faloweram.ir&type=ws&allowInsecure=0&sni=ai.faloweram.ir#@v2rayconfigamir 3520
+vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=/&security=tls&encryption=none&insecure=0&host=ai.faloweram.ir&type=ws&allowInsecure=0&sni=ai.faloweram.ir#@v2rayconfigamir 7087
 vless://fdfb2965-5754-45b8-afb2-70baef8e874a@snapp.ir:443?security=tls&type=ws&headerType=&path=/login/get/3929429349.rar/fortnite&host=database-cbv.persianstorebnd.ir&sni=database-cbv.persianstorebnd.ir&fp=chrome&alpn=h2,http/1.1#@Gangstersdonotcry
 vless://fe02fc5f-8e85-4df9-a0c2-1313bc33227d@hv343var.novinpardazanpayam.net:32849?security=none&encryption=none&host=www.uptvs.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?encryption=none&security=none&type=tcp&headerType=http#🔵@chillguy_vpn
@@ -46,7 +35,6 @@ vmess://eyJhZGQiOiIxNTkuODkuMjkuMTM2IiwiYWlkIjoiMCIsImhvc3QiOiJjeC5jb20iLCJpZCI6
 vmess://eyJhZGQiOiJ0cjEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJiODUwN2UwZS04OWYxLTUyYjUtOWEyNC02MjYzMmNiNDBiMjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbC1AVjJyYXlBbHBoYS0tNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDU3NDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDU4NzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJpbWtpbmQuZGRucy5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbGxlLmtvdGljay5zaXRlIiwiaWQiOiJCQTExRUI0OS0wREVDLTQ5QjYtOTU5Qy03MjM1RkFCNzFFQjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA4NDUyIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbGxlLmtvdGljay5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJtZWwudXNkdGJhbWEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI0YTUxM2NkLWJlZGMtNGI3Mi05YWYwLWFlZTE4MjdlMWRlMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi4pqhVGVsZWdyYW0gXHUwMDNkIEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJuMTc1MzU5ODQ0Ni53cGcyNy54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzUzNTk4NDQ2LndwZzI3Lnh5eiIsImlkIjoiYTUwNDdkOTUtMjRiOC00NTFhLTkzZTMtZjJhMzg3YjkzZDVhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheUFscGhhLS0xNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
@@ -503,3 +491,15 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 استرالیاvmess://eyJhZGQiOiIyMTcuMTM4LjIwNS4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJoay5zd2lmdGZhbGNvbi5hcHAiLCJpZCI6ImI1OThjZmNlLTE0NTMtNGEwYS1mNTRiLWI3ODQ3MzBmMWE0OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE2MTUzIiwicHMiOiLYp9iz2KrYsdin2YTbjNinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==سنگاپورvmess://eyJhZGQiOiIxMy4yMTMuNDUuMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI5NWFiMGFlOC02M2E0LTRmMTctY2Q2MC1mZDE3ZDU3OTQ4OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIyNjcwNCIsInBzIjoi2LPZhtqv2KfZvtmI2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9آلمانvmess://eyJhZGQiOiJkZS12LnNzaG1heC54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJkZS12LnNzaG1heC54eXoiLCJpZCI6IjU2NjhmZjk3LTYzMWYtNDYwMi1hMTNmLWI1NjU1MmM2N2FiZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoi2KLZhNmF2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+ژاپن (همراه اول)vmess://eyJhZGQiOiJtaW5nMi5raXdpcmVpY2guY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoibWluZzIua2l3aXJlaWNoLmNvbSIsImlkIjoiMThlNWY0MGYtYmRhNi00YzE1LTkzMzQtZTg3Y2RhNjA0N2FmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ItqY2KfZvtmGIiwic2N5IjoiYXV0byIsInNuaSI6Im1pbmcyLmtpd2lyZWljaC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiIxNzIuNjcuMjA0LjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiY2NwcC45MXBhbi5vbmUiLCJpZCI6IjczNWZmNDMwLTlkMWEtNGY1Ny1mYjY2LWU0M2EyNmE3NmY3MCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3BwIiwicG9ydCI6IjgwIiwicHMiOiLYotmF2LHbjNqp2KciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+آمریکاهمراه اولvmess://eyJhZGQiOiJldTEuaGF4Lnl1amkyMDIyLmdxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvOGtIOHFuZXBqa3ByYnNpZExyTGttWCIsInBvcnQiOiI4MCIsInBzIjoi2KLZhdix24zaqdinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
+هلندvmess://eyJhZGQiOiIxMDQuMjQ4LjgwLjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiN2QzZjRjNy03ZjZkLTQyMzgtODc2MC01OGMzZGZhZDUzZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGV2IiwicG9ydCI6IjMzMDA4IiwicHMiOiLZh9mE2YbYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==فرانسه vmess://eyJhZGQiOiI1MS43Ny4yMTUuNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJibWkuaXIgVC5tZS9zMDAxM19PZmZpY2lhbCIsImlkIjoiNTA3ZTk4YWUtNzkyMi00NzU2LWM5NTMtMzRlNWM1NzNkZGE0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDA4NDYiLCJwcyI6ItmB2LHYp9mG2LPZhyAgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==@v2rayNG_VPN
