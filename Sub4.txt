@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://45488c15-cf24-4f8b-8a13-d37c580b8984@s1.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#Psiphon--@V2rayAlpha-20
-vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.mobileemdad.top#Telegram : @V2ynpv
-vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://4749475d-3a47-4175-a934-92e247127ed7@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#@v2rayconfigamir 5025
-vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
-vless://47c3b07c-c24f-4542-88c3-8b30f714b28c@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#@RezZonez
-vless://47c3b07c-c24f-4542-88c3-8b30f714b28c@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#@techbod
-vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#@V2ynpv : تلگرام
-vless://48804bf8-121f-4e06-b76a-6ee48321debe@185.226.119.171:443?security=reality&encryption=none&pbk=bOhi5wJqozQVDzoi72lunasdZkf_LR-XOw-T1OGVEEE&headerType=none&fp=chrome&spx=/etPHx0Esn5H1Opa&type=tcp&sni=www.aparat.com&sid=baaa5e#@config4k _ کانال تلگرام
 vless://4893a9a3-b5ab-44fa-be90-5cf0caa1c779@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Psiphon--@V2rayAlpha-25
 vless://489f2ff3-5948-417c-a7ce-50f951fb0f52@snapp.ir:8080?path=/&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#Psiphon-@V2rayAlpha--22
 vless://48a2d97e-e969-4dae-bc09-3448e2ef1780@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-131
@@ -503,3 +494,12 @@ vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?path=/ws?ed
 vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#@netazadi
 vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#@Gangstersdonotcry
 vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#@V2rayNG_Cafe
+vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#@lldalall
+vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#https://t.me/Config0plus
+vless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#@netazadi
+vless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?mode=auto&path=/ed=3072&security=tls&encryption=none&insecure=0&host=tv1.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#https://t.me/Config0plus
+vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed=3072&security=tls&sni=default.ssl.fastly.net#@netazadi
+vless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?mode=auto&path=/ed=3072&security=tls&encryption=none&insecure=0&host=tv1.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#https://t.me/Config0plus
+vless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?mode=auto&path=/ed=3072&security=tls&encryption=none&insecure=0&host=tv1.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#https://t.me/Config0plus
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
