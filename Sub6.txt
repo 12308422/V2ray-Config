@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
-vless://ff246f65-8ecf-4e08-901e-3a15e09c68d0@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
 vless://ff337f2e-f641-4ffe-8c28-3aee2cdc03d3@snapp.ir:2082/?type=ws&encryption=none&path=/&host=baaghali.loadballancer.ir&security=none#@electvpn0
 vless://ff370081-1194-4def-b8c3-54ac93260e63@185.143.234.235:80?path=/&security=none&encryption=none&host=io.binping.lol&type=ws#@Ahvaz_vpn
 vless://ffc80743-30b9-4b1e-b77f-11d0165af889@varzesh3.com:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#🇮🇷26627 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33276?type=grp
 
 
 سرور هندvmess://eyJhZGQiOiJhd3NtbS5henpodWFuZ2FwaW5nLnR3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0YzRlMDY1Zi0zNjNiLTNjOWItOGE0ZC0zMTJmNmI5ODQwZDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWRvYmUiLCJwb3J0IjoiODAiLCJwcyI6IlNTUlRPT0wuQ09NIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
+
+
