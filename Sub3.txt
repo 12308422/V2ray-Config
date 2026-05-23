@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://2929@8.39.125.15:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev#3 🇩🇪 @V2ngFast
-trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=/1000/10/b449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=chrome&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#@Confixio
-trojan://4646@173.245.58.57:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev#5 🇩🇪 @V2ngFast
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#🌶️33@oneclickvpnkeys
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#😎94@oneclickvpnkeys
-trojan://7575@173.245.59.243:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev#4 🇩🇪 @V2ngFast
-trojan://7964@162.159.33.81:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev#6 🇩🇪 @V2ngFast
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?allowInsecure=1&alpn=h2&fp=chrome#🌶️70@oneclickvpnkeys
 trojan://8r&lt;[9'l6hAO#8ZQi@104.19.229.21:443?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#@v2rayRoom
 trojan://8r<[9'l6hAO#8ZQi@104.19.229.21:443?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@V2ray_confiig
@@ -503,3 +496,10 @@ vless://523bee30-6167-432a-3208-91ca147d9410@18.197.116.144:443?type=tcp&encrypt
 vless://528c02cf-a112-4d54-9697-c61d876a94f1@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#@techbod
 vless://528c02cf-a112-4d54-9697-c61d876a94f1@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#🇮🇷27764 | ⚡️Telegram = t.me/SOSkeyNET
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&fp=&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&security=reality&sid=fe013b8818613e&sni=vk.ru&type=tcp#🌶️82@oneclickvpnkeys
+vless://5324d954-c19d-4a1f-922e-04facdd64f61@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#🇮🇷26628 | ⚡️Telegram = t.me/SOSkeyNET
+vless://534d9ab7-8a47-45f4-a324-add0c6d72d88@useredge2.noroozmobarak.com:443?type=ws&security=tls&path=/wsloc1001?ed=2560&host=vip1host.ir3dprint.com&sni=vip1host.ir3dprint.com&fp=chrome&alpn=h3,h2,http/1.1#@canfigiop
+vless://53682025-9585-4c81-b677-264be67fd14d@Q1.super-resolve.ir:2086?path=/&security=none&encryption=none&type=ws#چنل عضو شو @v2ra_config
+vless://53b2de8f-9bab-4dce-bc02-eaaf57726837@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷27823 | ⚡️Telegram = t.me/SOSkeyNET
+vless://53b2de8f-9bab-4dce-bc02-eaaf57726837@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@Pirimld
+vless://53b2de8f-9bab-4dce-bc02-eaaf57726837@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@Pirimod
+vless://548150a4-3c39-431a-9786-68f3ff2137ce@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷27825 | ⚡️Telegram = t.me/SOSkeyNET
