@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+
 #بمب_اختصاصی 💣❤️ #ایرانسل 🚀  trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN🚀 trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
 
 سلام 👋ربات فعال شد میتونید استفاده کنید. 📌نکته: فقط کانفیگ هارو بصورت محدود زدیم و در قسمت سرور ها سرور لهستان و vmess انتخاب کنید و خریدتونو انجام بدید 🔸#توجه_کنید: داخل ربات قیمت هارو بصورت پایین زدیم 😁✅ @vip_vpn_2022_bot 👍
@@ -501,5 +503,3 @@ vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&e
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?encryption=none&security=tls&sni=tlv-il.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIL
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AJP
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACA

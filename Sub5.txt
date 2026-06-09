@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#@FarazV2ray
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#@Filtershekan_channel |1
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#@Filtershekan_channel |8
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#@meliproxyy
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
@@ -501,5 +503,3 @@ vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#@v2raybaaz
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#@vmesskhodam
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#All--@V2rayAlpha--15
-vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#telegram @mtmvpn
-vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🚀@V2ray_official
