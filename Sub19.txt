@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 ✅ مناسب وب گردیtrojan://telegram-id-privatevpns@3.71.199.214:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%40RIP_VPN%201💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 ✅ مناسب وب گردی  trojan://telegram-id-privatevpns@3.71.199.214:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%40RIP_VPN%201  💠 آموزش استفاده از کانفینگ مورد نظر 🔝  ╭ CHANNEL: @VorTexIRN ╰ GROUP: @VorTexIRN_Group
@@ -502,4 +503,3 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?encryption=none&hos
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
