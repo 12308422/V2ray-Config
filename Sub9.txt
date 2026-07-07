@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://597b9e17-a4ed-44e0-b011-96cf86f93205@nls.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#🦉@FreeConfigForYou
 vless://597b9e17-a4ed-44e0-b011-96cf86f93205@swa.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#🦉@FreeConfigForYou
 vless://599c9a3d-29e2-4a85-9159-eb92a96bdcba@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#@V2ray_confiig
 vless://599c9a3d-29e2-4a85-9159-eb92a96bdcba@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
@@ -502,4 +503,3 @@ vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tl
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@outline_ir
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple  ♥️👈 تلگرام
