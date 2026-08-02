@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&alpn=h2&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ddc-chr2.astralweb.tech#@MARAMBASHI 🇬🇧
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#👁️‍🗨️55@oneclickvpnkeys
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#👁️‍🗨️93@oneclickvpnkeys
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ddc-chr.astralweb.tech#@appsooner کانال تلگرام 🕊️
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#Unblocked_ir
+vless://3b2cdd53-cb18-4028-9d7f-894be0f5f82d@116.202.13.37:33184?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
+vless://3b2cdd53-cb18-4028-9d7f-894be0f5f82d@116.202.13.37:33184?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://3b2cdd53-cb18-4028-9d7f-894be0f5f82d@116.202.13.37:33184?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@V2rayng_Fast
 vless://3b45ea2c-e050-4da6-a2f0-cb9cc2e51699@centerbeam.proxy.rlwy.net:22287?security=reality&encryption=none&pbk=xVINf2LgTotqJIjILeT0fF8GNbELE4ohgeuyjKfwczM&headerType=none&fp=chrome&spx=/x1chc8zX5t6RX8Z&type=tcp&sni=aws-us-east-1.amazon.com&sid=6e58c60b27eb#@Net2ray NL🇳🇱
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
@@ -496,10 +503,3 @@ vless://5ee4ce84-c0b1-4230-ae32-b5266621cbf6@ppu.foot8all.ir:50567?security=real
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&type=tcp&headerType=none&security=none#@Napsternetvirani
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?headerType=none&encryption=none&type=tcp&security=none#@Alpha_v2rayIP
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=&encryption=none&headerType=none&type=tcp#@Capoit
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²²⁶
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@configprxy
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@irconfiig
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
