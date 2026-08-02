@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2088ms
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20340ms
 vless://50414e45-4c5f-5a45-5553-2fe983642fcb@104.27.16.188:2083?path=%2Fstream%2FPANEL_ZEUS%2F2fe983642fcb&security=tls&fragment=200-3000%2C1-2&encryption=none&insecure=0&host=z-e-u-s-panel-05oqwn.szar56756.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=z-e-u-s-panel-05oqwn.szar56756.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://50414e45-4c5f-5a45-5553-2fe983642fcb@104.27.16.188:2096?path=%2Fstream%2FPANEL_ZEUS%2F2fe983642fcb&security=tls&fragment=200-3000%2C1-2&encryption=none&insecure=0&host=z-e-u-s-panel-05oqwn.szar56756.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=z-e-u-s-panel-05oqwn.szar56756.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
@@ -437,16 +436,12 @@ vmess://eyJ2IjoiMiIsInBzIjoiSEsyMSAxNy41S0IvcyIsImFkZCI6IjQ3LjgzLjE5OC4zOCIsInBv
 trojan://humanity@www.ignitelimit.com:443?#%E6%9C%AA%E7%9F%A5127
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI4IDI0LjBLQi9zIiwiYWRkIjoiZmoyNjAyMDQuZnJlZWNoYXR1cC5jb20iLCJwb3J0IjoiMjc3MjYiLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyOCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI5IiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0IjoiMjA1MiIsImlkIjoiOGNjNjAwOGYtOGM0Yy00ZjM1LTliYTctN2M2ZTkxM2Q3MTllIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiMjJkLmlydm4uZGViaWFuLvCfpKM2LjYuMWI3MS44LmZ4cC5kZWJpYW4ub3Jn8J+Ys/CfmLMuc3BlZWR0c2hlc3QubmV0LuWIl+WIl+eUt+S6i+eahOS6i+WIl+S4iui1m+eUty5ib2xhbmQtc2hvLXRva2htLXNhZy5jeW91LiIsInBhdGgiOiIvQGlydnBubixAaXJ2cG5uLEBpcnZwbm4sQGlydnBubj9lZD0xMDI0IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTI5In0=
-#ñ1F2xÅðÊo}Fµ$+s;°Ô×dlBïÖóvø±±0c[cöëÝã:03cX£ßd5Îo×é`qàZNüÕ¨êÈÁF²
-©Ûáû³¯)ó>£r¢5Óm
-Õñ£§ø8åËYV¾¬_-ÄDÌß¦ôÛa¾{£±ÃÏµäÁT³ÈÞÎ~ë®< ¤SÏ
-íèè2¤Ýª	%ãK¿åþÅ{|EiùÌh ÒÈ`fz3AV­)°z¯}á¶ûó·ð,É
+
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?allowInsecure=1&encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#@V2raysCollector%20%C2%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%40proxy_kafee%20%F0%9F%9A%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40v2raybaaz%20%C2%B3
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAUHJveHlWUE4xMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8gQFByb3h5VlBOMTEiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IvCfh6zwn4enIEBwcm94eV9rYWZlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
 vmess://ewogICAgImFkZCI6ICIxNS4yMzUuNTAuMTcyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTE1LjIzNS41MC4xNzItMTY0NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCB2MnJheWZyZWUuZXUub3JnIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
@@ -494,8 +489,8 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=s
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️491🌐🆕️
 hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000/?insecure=1&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10&sni=ok.ru#4👁️‍🗨️@oneclickvpnkeys
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#@Alpha_v2rayIP
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com#@Napsternetvirani
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#@FarazV2ray
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#✅ t.me/bigAVPN ایران آزاد 👑
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@erfanandroid
 hysteria2://9GQnamBCeI@185.253.117.217:443?security=tls&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn&insecure=1&pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&sni=www.intel.com#🇧🇭TelegRam=V2RayyNGvpn🇧🇭
@@ -503,3 +498,8 @@ hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls
 hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#چنل تلگرام : @AstroVPN_official
 hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#کانال تلگرام : https://t.me/AstroVPN_official
 hysteria2://HChdbj6duc@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#Proxy_mtm 5
+hysteria2://HChdbj6duc@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#🇩🇪Telegram=V2RayyNGvpn⚡🇩🇪
+hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#👁️‍🗨️76@oneclickvpnkeys
+hysteria2://XhVX5cnBmJ@185.253.117.217:443?security=tls&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn&insecure=1&pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&sni=www.intel.com#🇧🇭V2RayyNGvpn2🇧🇭
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
