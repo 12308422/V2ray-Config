@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://bcd2e4aa-81d1-4a8e-874a-27312de239a5@165.232.35.128:47587?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@proxy_kafee
 vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@v1.cdn.wj0zugpsmub2.jjxdns.net:31877/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=chrome&security=reality&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323&packetEncoding=xudp#🇸🇬SG
@@ -499,7 +503,3 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#✅  @vistav2ray  👈👈کانال ما ✅
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#@freenettir
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#@meliproxyy
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#[🇨🇦]t.me/ConfigsHub
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#ᴬᴸᴸ4🇩🇪➣@VEGAAS_VPN
-vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#🇨🇦139077 | ⚡️Telegram = t.me/SOSkeyNET
