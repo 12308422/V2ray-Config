@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-cc31.up.railway.app#🇺🇸141708 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-cc31.up.railway.app#🇺🇸US-🚀@VPNine1
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&headerType=none&fp=chrome&spx=/giyWVcXDg48T294&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#canfingV2rayNG-117
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=/v1&security=none&encryption=none&type=ws#@FarazV2ray
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=/v1&security=none&encryption=none&type=ws#@V2rayng_Fast
@@ -503,3 +501,5 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&typ
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@188.119.123.112:49001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&allowInsecure=1&fp=chrome&security=reality&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&packetEncoding=xudp#波兰
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de-7.techprovide.icu&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&allowinsecure=0&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
 vless://419f1b17-90ec-386d-04e6-5bd523fb9994@x4g-production-4090.up.railway.app:443?path=/ws/419f1b17-90ec-386d-04e6-5bd523fb9994&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4090.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4090.up.railway.app#🇺🇸141865 | ⚡️Telegram = t.me/SOSkeyNET
+vless://419f1b17-90ec-386d-04e6-5bd523fb9994@x4g-production-4090.up.railway.app:443?path=/ws/419f1b17-90ec-386d-04e6-5bd523fb9994&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4090.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4090.up.railway.app#🇺🇸US-🚀@VPNine1
+vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
