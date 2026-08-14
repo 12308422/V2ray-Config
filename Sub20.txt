@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
 ✅ فروش سرور اختصاصی (VPN) برای دور زدن نت ملی ✅🌐  در تمام طول روز وصل بدون قطعی  24    ساعته حتا در مواقع نت ملی و قطعی ⬇️ مناست گیم 🖲️ ترید 🔥 وب گردی و.. ⭐🖥 برای ios و اندروید و ویندوزسازگار با همه اپراتور ها 👍😂😍😎کانفینگ ها به صورت🌐Http custom🌐V2rayNG🌐NapsternetV 🌐E-V2rayموجود هست ❤️تمامی سرور ها کانفینگ های (vmess-vless)میخورند به انتخاب شما هست✅ با مناسب ترین قیمت و بهترین کیفیت🏃‍♂️حجم به انتخاب خودتون هست ولی زیر ۲۰ گیگ هم موجود نیست🔔با این vpn دیگه نگران اینترنت نیسی چون همیشه با سرعت بالا وصلی 📢پشتیبانی 24 ساعته ✅از الان میتونید  یه سرویس بگیرید که نت ملی اذیت نشید ☑️جهت خرید به آیدی زیر پیام دهید 🌹Pv: @imSirTe3la ✅channel: @Ytte3la ✔️
 
 
@@ -502,4 +503,3 @@ vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&se
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=faster.yandex-apicloud.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI

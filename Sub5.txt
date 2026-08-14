@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52024?alpn=h3&fm={"udp":[{"settings":{"password":"t72hzzenktxmrvgu"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=t72hzzenktxmrvgu&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇰 Denmark-Copenhagen-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52025?alpn=h3&fm={"udp":[{"settings":{"password":"iknjsvsjagi449mm"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=iknjsvsjagi449mm&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇪 Estonia-Tallinn-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52026?alpn=h3&fm={"udp":[{"settings":{"password":"d6pv15sghiq1onts"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=d6pv15sghiq1onts&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇸 Spain-Barcelona-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52027?alpn=h3&fm={"udp":[{"settings":{"password":"4hnuy2eg2xgo6ue0"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=4hnuy2eg2xgo6ue0&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇸 Spain-Madrid-met_vg8l31sv
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@178.175.134.2:989#[004178] - 🇲�
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#[004179] - 🇧🇦 Bosnia and Herzegovina | @freenettir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989#[004180] - 🇱🇹 Lithuania | @freenettir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#[004181] - 🇸🇰 Slovakia | @freenettir
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#[004182] - 🇲🇩 Moldova | @freenettir
