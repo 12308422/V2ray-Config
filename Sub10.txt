@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6d4cce6a-dbc6-43af-9146-067847483fce@s2.eldoradu.ir:8880?path=/?ed=2082&security=none&encryption=none&host=oHfhb.udp1.postshup.ir&type=httpupgrade#@NETMelliAnti
 vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?encryption=none&security=tls&sni=kkiihh-iran-abc-iran-1993.kinghooman.com&fp=chrome&type=ws&path=/#کانال تلگرام : Free_VPN_CH@
 vless://6d9db439-291f-464e-98c6-a79c2b3c02be@nk.riverveil.com:39530/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=QeVN5jn6k7sYotK0uyppQoepe1tw6PkVblMoSDUODD4&sid=6ba85179e30d4fc2#KR
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@176.124.209.103:23346?security=reality&encryption=none&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&headerType=none&fp=chrome&spx=/CUVGUaBl8cradcN&type=tcp&flow=xtls-rprx-vision&sni=zvuk.com&sid=4294bfc2#@v2rayngzendegimamad🕊️
@@ -503,3 +502,4 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#تلگرام PROXY_MTM-16
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/@sil3nt_network&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@V2rayng_Fast
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/@sil3nt_network&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@icv2ray
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/@sil3nt_network&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@iran_v2ray1
