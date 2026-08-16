@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443/?type=ws&encryption=none&flow=#爱沙尼亚
 vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-9a1f3.up.railway.app&path=/ws/1a7015d0-1790-452f-a31d-d863b69b7bcb&sni=web-production-9a1f3.up.railway.app&fp=chrome&alpn=http/1.1#SulgX-@hollowcon
 vless://1a93b57b-6d47-7e41-dbee-f268495557f8@69.46.46.53:443?path=/ws/1a93b57b-6d47-7e41-dbee-f268495557f8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-75086.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-75086.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -502,4 +503,3 @@ vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&secur
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@114.29.238.251:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=chrome&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#🇭🇰HK
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&packetEncoding=xudp#🇸🇬SG
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&allowInsecure=1&fp=chrome&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&packetEncoding=xudp#保加利亚
