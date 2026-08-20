@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿 - KZ - @FreeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 Join+Telegram:@Farah_VPN 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#@v2ray313 کانالمون 💖
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#@v2ray313 کانالمون 🩷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺139754 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +500,6 @@ trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#🍏56@oneclickv
 trojan://PQ05174892@fleet-pony.rooster465.autos:443/?type=tcp&security=tls&sni=fleet-pony.rooster465.autos&allowInsecure=1#新加坡
 trojan://PQ05174892@glowing-filly.rooster465.autos:443?fp=chrome#🍏70@oneclickvpnkeys
 trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=0&sni=ideal-phoenix.rooster465.autos#🇯🇵148106 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=0&sni=ideal-phoenix.rooster465.autos#🇯🇵JP-🚀@VPNine1
+trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#🍏65@oneclickvpnkeys
+trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
