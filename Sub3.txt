@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=%2F&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#🆔capoit%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%20179ms
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.21.15.245:443?security=reality&encryption=none&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.chick-team.ru&sid=0894e51863b5c395#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&host=129.121.95.159&fp=firefox&type=ws&sni=129.121.95.159#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%2081ms
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D2048&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%207ms
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&host=josni.hoyes.cloudns.ch&type=ws&sni=josni.hoyes.cloudns.ch#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%206ms
@@ -462,7 +464,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYxIiwiYWRkIjoiYXIucGF5ZGFyLnNpdGUiLCJwb3J0
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYyIiwiYWRkIjoiMTY3LjE1MC4xMDAuODEiLCJwb3J0IjoiNTMyNjciLCJpZCI6IjBhNGU1ZDEyLWY4MDQtNDk5MS1hM2JmLWU0NWRiZmNiMTIwMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2d4NWhlbWp2ZDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNjIifQ==
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@5.39.202.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&type=tcp#%F0%9F%8D%9125@oneclickvpnkeys
 vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.198.96.210:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#%F0%9F%8F%9387@oneclickvpnkeys
-hysteria2://Germany2026hy@45.128.99.14:8443?sni=de.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderDE2026#Telegram%20channel%20%3A%20%40Daily_Configs
 trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%F0%9F%AB%9F98@oneclickvpnkeys
 trojan://MiTiVPN@140.248.185.253:443?alpn=http%2F1.1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%F0%9F%AB%9F18@oneclickvpnkeys
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#%F0%9F%A6%8174@oneclickvpnkeys
@@ -502,4 +503,3 @@ hy2://17aVvwmiSU@do.aigh.store:10929/?insecure=1&sni=do.aigh.store#🇺🇸US
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#🇭🇰HK
 hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy222.routeon.pro#荷兰
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#德国
-hy2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443/?insecure=1&sni=node.embrofree.org#波兰
