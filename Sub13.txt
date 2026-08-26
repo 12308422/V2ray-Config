@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ru2.alertyagency.com:443?security=reality&encryption=none&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fbc7b5b2#@erfanandroid
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ru2.alertyagency.com:443?security=reality&encryption=none&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fbc7b5b2#@tootffarangi🍓-9
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
@@ -502,4 +503,3 @@ vless://c648c6d0-4d3e-4f51-8ee6-4fcdbdddd684@188.114.97.6:2096?ed=2560&eh=Sec-We
 vless://c648c6d0-4d3e-4f51-8ee6-4fcdbdddd684@peekconfig.hamrahfree2.workers.dev:2096?path=/eyJqdW5rIjoibTBZdXp5cm93NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed&security=tls&encryption=none&insecure=0&host=peekconfig.hamrahfree2.workers.dev&type=ws&allowInsecure=0&sni=PEekCoNFig.hAMRahfreE2.wORKERs.dEv#@Lent_Gc👈🏼کانال
 vless://c6bc8627-ab12-457b-b143-0ea0de51b1ed@45.12.254.86:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Al0xAzgmDer_tEDUj7kx5SJ6A2a4FRi1S5oa0WBMR8&security=reality&sid=953e8078&sni=www.apple.com&type=tcp#🏓40@oneclickvpnkeys
 vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💙
-vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
