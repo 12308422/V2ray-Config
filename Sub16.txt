@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c041788d-1801-4bd7-863f-781a8af0854d@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
+vless://c041788d-1801-4bd7-863f-781a8af0854d@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray برای تهیه اشتراک اختصاصی به ایدی زیر پیام بدین
+vless://c041788d-1801-4bd7-863f-781a8af0854d@152.89.253.143:2829?security=none&encryption=none&host=Microsoft.com&headerType=http&type=tcp#🇫🇷162731 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c041788d-1801-4bd7-863f-781a8af0854d@152.89.253.143:2829?security=none&encryption=none&host=Microsoft.com&headerType=http&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@89.185.80.195:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5us.skorostnet.space&sid=fdda9806fe5d8584#T.me/Vpn_Mafia 🇺🇸
 vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
@@ -499,7 +503,3 @@ vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=real
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@leviconfigs🪐-16
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@v2ray313 کانالمون 👻
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
-vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@skk.moe:8880?encryption=none&security=none&type=ws&host=lucky-cell-d20c.78-107.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇺🇸☁️ US
-vless://d6fbbc29-9e7c-454d-a791-9b0d068337a2@69.46.46.41:443?path=/ws/vless/d6fbbc29-9e7c-454d-a791-9b0d068337a2?ed=2048&security=tls&alpn=h3&encryption=none&insecure=0&host=net-f2bc74-fd3396-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=net-f2bc74-fd3396-production.up.railway.app#Proxy_mtm-26
