@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://djHTZmNXIVnA@18.199.218.181:16154?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
-trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#@IRAN_V2RAY1 🌟
-trojan://e016d072-ed97-40d4-a83f-04c00f8df2a5@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#@bored_vpn
 trojan://euEUAqUnKhIX@18.226.163.196:15349?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
 trojan://f88f080e9b4f66c6@188.114.96.0:443?host=open-39.avl-a47261.workers.dev&type=ws&security=tls&path=/tr/Mg56mvTz944kOMHGyd2UYtG?ed=2560&sni=oPEN-39.avl-a47261.WoRKeRs.dev&fp=chrome&alpn=http/1.1#🇨🇦179897 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://f88f080e9b4f66c6@188.114.96.0:443?host=open-39.avl-a47261.workers.dev&type=ws&security=tls&path=/tr/Mg56mvTz944kOMHGyd2UYtG?ed=2560&sni=oPEN-39.avl-a47261.WoRKeRs.dev&fp=chrome&alpn=http/1.1#🚀@VPNine1
@@ -503,3 +500,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@194.76.173.6:2053?encryption=none&s
 vless://098104de-f68d-434e-adcd-2ab4d1f0759d@5.160.77.199:49429?security=reality&encryption=none&pbk=OQsVeM4sKyLRiGKO1QDfyo4C0xBJJhFB54EhFlcvzGM&host=skyroom.online&headerType=http&fp=chrome&type=tcp&path=/assets&sni=skyroom.online&sid=414b8a385e81910a#@ehsawn8-500gig
 vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&security=none&type=ws&path=/v1#🇷🇺139745 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=cf2.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf2.rumedia-cdn.com#🇸🇪@EliV2ray
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&sid=67933d8be5b42f78&type=tcp&headerType=none#🇫🇮FI_306_@Surfboardv2ray
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&sid=67933d8be5b42f78&type=tcp&headerType=none#🇫🇮FI_316_@Surfboardv2ray
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&sid=67933d8be5b42f78&type=tcp&headerType=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI#🇫🇮FI_322_@Surfboardv2ray

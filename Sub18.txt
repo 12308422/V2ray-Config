@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d6c11356-f620-c7ce-8f59-736e1df6cdb6@69.46.46.72:443?path=/ws/d6c11356-f620-c7ce-8f59-736e1df6cdb6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solipanel-production-f848.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-f848.up.railway.app#استفاده بدون جوین حرام-@Soliconf
-vless://d6c11356-f620-c7ce-8f59-736e1df6cdb6@69.46.46.92:443?path=/ws/d6c11356-f620-c7ce-8f59-736e1df6cdb6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=solipanel-production-f848.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solipanel-production-f848.up.railway.app#استفاده بدون جوین حرام-@Soliconf
-vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@104.21.56.202:8880?type=ws&host=lucky-cell-d20c.78-107.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&fp=chrome&encryption=none#[ 🇨🇦 ] | @Cfox_SerVer
 vless://d7282b41-1f2a-47bb-8593-f464fd6b6d78@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=BechBad.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#Free x279 @Outline_Vpnx269
 vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@179.198.49.43:443?security=reality&encryption=none&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=a1b2c3d4e5f67890#18
 vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@179.198.49.43:443?security=reality&encryption=none&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=a1b2c3d4e5f67890#46
@@ -503,3 +500,6 @@ vless://e65badcb-d6b8-40d7-900d-5fc3b69d5768@91.107.190.84:8443?security=reality
 vless://e65badcb-d6b8-40d7-900d-5fc3b69d5768@91.107.190.84:8443?security=reality&encryption=none&pbk=gvS7f3yIhT9QT7HnoI5YNev_xvGdW1HS5IRXiw8tbi4&headerType=none&fp=chrome&spx=/y3N6kUBEFn4kN9k&type=tcp&sni=storage.googleapis.com&sid=b47b665b#@vmesskhodam
 vless://e685dff4-9d49-407e-8930-3c22dbb60184@france5.selqora.ir:31663?security=none&encryption=none&headerType=none&type=tcp#@configprxy
 vless://e685dff4-9d49-407e-8930-3c22dbb60184@it5.selqora.ir:22211?security=none&encryption=none&headerType=none&type=tcp#@configprxy
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e&type=grpc#🇷🇺139763 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#configprxy
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#Telegram:@v2rayng3
