@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#42
 vless://523e85fa-82b2-4ca5-9ff5-a734a4510197@104.21.6.101:443?mode=packet-up&path=/api/v1/adc65c532dbea235495e0b849bb73b7e/&security=tls&encryption=none&insecure=0&host=assets-fi1.mirolit.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=assets-fi1.mirolit.ru#@Shh_Proxy-New⁵
 vless://523e85fa-82b2-4ca5-9ff5-a734a4510197@104.21.6.101:443?mode=packet-up&path=/api/v1/adc65c532dbea235495e0b849bb73b7e/&security=tls&encryption=none&insecure=0&host=assets-fi1.mirolit.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=assets-fi1.mirolit.ru#📡 @V2_MOD_SHOP
 vless://523e85fa-82b2-4ca5-9ff5-a734a4510197@172.67.134.181:443?mode=packet-up&path=/api/v1/7ad9078af72be1d6fe012b0f2ebe9248/&security=tls&encryption=none&insecure=0&host=assets-de1.mirolit.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=assets-de1.mirolit.ru#@meliproxyy
@@ -501,5 +503,3 @@ vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&
 vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://6f131e6f-c896-4419-8fdc-723913809cdc@66.33.22.250:59449?encryption=mlkem768x25519plus.native.0rtt.BanOtaI-e79YDpxA_P0uFHlVvvx52HceZtCcLwybEkc&security=reality&sni=coral.ai&fp=chrome&pbk=c0QCBMCayouXdmsjWdutEe10Nn3y-xJMTQUAZjiGziI&sid=805ac11a9e&spx=/&type=xhttp&mode=auto&path=/#@V2ray_confiig
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=64.49.13.77&fp=chrome&type=xhttp&allowInsecure=1&sni=64.49.13.77#@fastkanfig 3
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/archive/gawdfaGA2faG@$!32ga&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=salavati.shompolexy.shop&type=xhttp#@fastkanfig 1
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=64.49.13.77#@fastkanfig 2
