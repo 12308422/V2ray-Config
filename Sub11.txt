@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🇮🇳181294 | ⚡️Telegram = t.me/SOSkeyNET
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت
 vless://4077de3d-64cb-41cb-bee2-9178210e5fb4@167.233.54.146:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪139762 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://552d68c0-dccf-4623-9eca-f4203e2203d1@93.190.9.172:3090?mode=multi&securi
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://5596d6f4-5bfd-44e2-91b6-6ceffab5830d@72.146.235.36:783/?type=ws&encryption=none&flow=&path=/#[55871] - Telegram : @V2All
+vless://5596d6f4-5bfd-44e2-91b6-6ceffab5830d@72.146.235.36:783/?type=ws&encryption=none&flow=&path=/#تو کانال نتورلد نباشید قطع میشن@networld_vpn
