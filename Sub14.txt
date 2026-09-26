@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7e5fa3a3-e085-441d-8322-0411711dd648@193.233.223.185:50443?security=reality&encryption=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#kurdconfig
+vless://7e5fa3a3-e085-441d-8322-0411711dd648@193.233.223.185:50443?security=reality&encryption=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#🏴‍☠️@FreakConfig
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 04:17
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#@leviconfigs🪐-14
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#@v2rayng3
@@ -501,5 +503,3 @@ vless://9a3d5f36-fa72-4ced-94d3-7f6f046ec085@144.31.128.84:24531?security=realit
 vless://9a3d5f36-fa72-4ced-94d3-7f6f046ec085@144.31.128.84:24531?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com#@bored_vpn
 vless://9a3d5f36-fa72-4ced-94d3-7f6f046ec085@144.31.128.84:24531?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com#@mehrosaboran
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226/?type=tcp&encryption=none&flow=#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=&encryption=none&headerType=none&type=tcp#9264 @proxy_online_net
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁹⁷
