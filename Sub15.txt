@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#9383 @proxy_online_net
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️👾
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 😤
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🏡 10
 vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🦒 5
 vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🎠 ConfigV2RayNG
 vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=/&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#🇩🇪All⁷ | @BigSmoke_Config
@@ -496,10 +503,3 @@ vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?mode=auto&path=/
 vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@37.46.199.240:8443?path=/assets/v2/pkg&security=reality&encryption=none&extra={  "xmux" : {    "maxConcurrency" : "16-32"  }}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#آلمان @CONFIG7X
 vless://aa9aafdb-531d-4b72-8ad0-66ad9b226749@live.theworldwidewolf.com:80?mode=auto&path=/vpnon4u&security=none&encryption=none&host=borakshop.co&type=xhttp#🇫🇮channel-🆔 vpnon4u
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
-vless://aac5beba-02a7-4cf0-8d33-f724c1bda5c6@140.150.238.49:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#🇩🇪181927 | ⚡️Telegram = t.me/SOSkeyNET
-vless://aac5beba-02a7-4cf0-8d33-f724c1bda5c6@140.150.238.49:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#🇩🇪DE-🚀@VPNine1
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#@tootffarangi🍓-10
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#Channel : @Daily_Configs
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#برای اتصال دائمی جوین شو🦠 TelegramID ⌲Express_freevpn 🪩
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🇫🇷181960 | ⚡️Telegram = t.me/SOSkeyNET
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#Free x523 @Outline_Vpn
