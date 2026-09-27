@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1ea57f1c-8a54-0012-a611-a6d6fe26d42a@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#vpnsal
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#Arshiavpn12
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&security=none&encryption=none&host=parsi.parsi.sbs&path=/#@v2rayng3
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#@hopev2ray🩷
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#@v2rayng3
@@ -501,5 +503,3 @@ vless://35dab1a4-512d-42f7-8d03-36a3d7593687@185.241.208.241:8443?security=reali
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.21.70.21:443?encryption=none&security=tls&sni=super-sunset-010c.24-43d.workers.dev&fp=unsafe&allowinsecure=0&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇩🇪All² | @BigSmoke_Config
 vless://361451c5-245e-46d8-b13e-d206c4f0536b@xn--swe-dw33b.netbazshop.ir:33017?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=media-se.compressor.work#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://3680a45e-ee4d-4093-bc7f-487fd66b8f59@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Capoit
-vless://3680a45e-ee4d-4093-bc7f-487fd66b8f59@dv3.kontabox.ir:1280?path=/&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#@Capoit
